@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "nobar",
+  "name": "NoBar",
+  "description": "Blocks gambling commands.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["aembr"],
+  "credits": "Thanks to bodeget2020 for the mod idea",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
