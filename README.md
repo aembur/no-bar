@@ -8,3 +8,6 @@ NoBar is a simple, free and open-source Minecraft 1.12.2 mod. It aims to discour
 3. Put the file in your `.minecraft/mods` folder
 4. ???
 5. Profit!
+
+## 1.8.9 when?
+Never. The technology just isn't there yet.
